@@ -1,4 +1,4 @@
-![logo](https://github.com/khushisahu16/khushisahu16/blob/main/3bda585ceabcae86a826c57305d1ff39.jpg)
+![logo](https://github.com/khushisahu16/khushisahu16/blob/main/6ea4302dec03c74a8c69d5745c958d51.jpg)
 <h1 align="center">Hi 👋, I'm khushi sahu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
